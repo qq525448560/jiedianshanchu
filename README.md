@@ -9,7 +9,7 @@
 在服务器上直接执行以下命令即可自动下载并运行：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/qq525448560/jieidanshanchu/refs/heads/main/jiedianshanchu.sh -o ~/jiedianshanchu.sh \
+curl -fsSL https://raw.githubusercontent.com/qq525448560/jiedianshanchu/refs/heads/main/jiedianshanchu.sh -o ~/jiedianshanchu.sh \
   && sed -i 's/\r$//' ~/jiedianshanchu.sh \
   && chmod +x ~/jiedianshanchu.sh
 ~/jiedianshanchu.sh
